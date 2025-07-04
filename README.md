@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## Мои навыки:
-<img src="![image](https://github.com/user-attachments/assets/51873b9b-991b-44fb-9c8f-84fcd3cced22)
-"10%">
+<img src="![image](https://github.com/user-attachments/assets/19525e5f-401e-4fcd-afca-8b3f172ceb02)
+" width="10%">
 
 <!--
 **Timka-K/Timka-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
